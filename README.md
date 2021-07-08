@@ -29,3 +29,7 @@ The gerated file below is your IOx application:
 LICENSE
 
 This package contains the "modpoll" software binary licensed under https://www.modbusdriver.com/info/LICENSE-FREE and distributed by proconX Pty Ltd, Brisbane/Australia, ACN 104 080 935.
+
+DISCLAIMER
+
+This program comes without any warranty or support, to the extent permitted by applicable law. You can redistribute it and/or modify it under the terms of the MIT license.
